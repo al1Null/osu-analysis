@@ -1,0 +1,18 @@
+### BEATMAP
+Comparison between modes
+Freq of difficulties
+	# display count (num of beatmaps) on graph
+	# do for other difficulties
+bpm data
+lang id
+
+### Top Players
+Digitcount - break offs
+3digit, 2digit, 5digit, 6digit
+	how much pp?
+
+
+###
+players with the most SS's S's and A's
+
+### Analyze success rate/ points of failure
